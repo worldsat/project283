@@ -21,7 +21,7 @@ Welcome! This repository contains the
 
 ## 📂 What's Inside (Free Download)
 
-* **`drawable` folders**: All the required assets (custom buttons, transaction arrows, profile image, referral banner, etc.) organized for the project. You can download and add these directly to your `res` folder.
+* **`drawable` folders**: All the required assets . organized for the project. You can download and add these directly to your `res` folder.
 * **`layout` previews**: Images of the UI design to help you follow along with the video.
 
 ---
